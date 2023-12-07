@@ -1,6 +1,7 @@
-<manifest xmlns:android="http://schemas.android.com/apk/res/android">
-    <application
-        android:label="phonebook"
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.flutter_mongo">
+   <application
+        android:label="flutter_mongo"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity

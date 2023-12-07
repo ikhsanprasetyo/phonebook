@@ -1,6 +1,6 @@
 {
-    "name": "phonebook",
-    "short_name": "phonebook",
+    "name": "flutter_mongo",
+    "short_name": "flutter_mongo",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
